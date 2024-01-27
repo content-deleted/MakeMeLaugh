@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7t6nb2qy80rw"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://c2egb12kxy8rd"
+path="res://.godot/imported/stock-photo-woman-hands-praying-for-blessing-from-god-on-sunset-background-1063994864.png-78126665306f9e87d11775c967935791.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://FunnyImages/stock-photo-woman-hands-praying-for-blessing-from-god-on-sunset-background-1063994864.png"
+dest_files=["res://.godot/imported/stock-photo-woman-hands-praying-for-blessing-from-god-on-sunset-background-1063994864.png-78126665306f9e87d11775c967935791.ctex"]
 
 [params]
 
@@ -32,6 +32,3 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=1.0
-editor/scale_with_editor_scale=false
-editor/convert_colors_with_editor_theme=false
